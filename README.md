@@ -10,3 +10,5 @@
 4. [Создание хранилища и пользователя-администратора хранилища](https://github.com/VladimirProgrammist1C/scripts-for-the-Updater/blob/main/Создание%20хранилища%20и%20пользователя-администратора%20хранилища.md)
 
 5. [Создание пользователей хранилища](https://github.com/VladimirProgrammist1C/scripts-for-the-Updater/blob/main/Создание%20пользователей%20хранилища.md)
+
+6. [Подключение информационных баз к хранилищу](https://github.com/VladimirProgrammist1C/scripts-for-the-Updater/blob/main/Подключение%20информационных%20баз%20к%20хранилищу.md)

@@ -12,3 +12,5 @@
 5. [Подключение информационных баз к хранилищу](https://github.com/VladimirProgrammist1C/scripts-for-the-Updater/blob/main/05.%20Подключение%20информационных%20баз%20к%20хранилищу.md)
 
 6. [Включение редактирования конфигурации, находящейся на поддержке](https://github.com/VladimirProgrammist1C/scripts-for-the-Updater/blob/main/06.%20Включение%20редактирования%20конфигурации%2C%20находящейся%20на%20поддержке.md)
+
+7. [Создание Хранилища расширения конфигурации и пользователей Хранилища](https://github.com/VladimirProgrammist1C/scripts-for-the-Updater/blob/main/07.%20Создание%20Хранилища%20расширения%20и%20пользователей%20Хранилища.md)
